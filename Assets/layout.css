@@ -1,0 +1,43 @@
+/*flexible rows*/
+.row {
+    display: flex;
+    flex-direction: row;
+    flex-wrap: wrap;
+}
+
+/* flexible columns*/
+.column {
+    display: flex;
+    flex-direction: column
+}
+
+.grid {
+    display: grid;
+    width: 100%;
+    grid-template-columns: repeat(12, 1fr);
+}
+
+/*Linear Gradients This will create a background linear gradient from top to bottom...*/
+.linear-gradient-background {
+    background-image: linear-gradient(rgba(232, 102, 236, 0.3) 0%,
+            rgba(232, 102, 236, 0.6) 100%);
+}
+
+/*card header..*/
+.code-card .card-header {
+    border-radius: 8px;
+    transition: all 0.5s ease-in-out;
+}
+
+/*Box Transition Glow Use transition and box shadows to glow on hover..*/
+.code-card:hover,
+.code-card:hover .card-header {
+    box-shadow: inset 0px 0px 8px rgba(232, 102, 236, 1), 0 0 15px rgba(232, 102, 236, 1);
+}
+
+/*Overlay Card with Title Use position properties and negative margins to raise elements higher than their natural starting point.*/
+
+.card-header {
+    position: relative;
+    margin-top: -20px;
+}
