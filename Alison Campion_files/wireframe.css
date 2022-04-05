@@ -1,0 +1,256 @@
+@charset "utf-8";
+	.st0
+{
+	border-style : Solid;
+	border-color : #3759C1;
+	border-color : rgba(55, 89, 193, 1);
+	border-width : 3px;
+	position : absolute ;
+	left : 318px;
+	top : 1526px;
+	width : 0px;
+	height : 124px;
+}
+.st1
+{
+	background : #92E3DF;
+	background : rgba(146, 227, 223, 1);
+	position : absolute ;
+	left : 370px;
+	top : 986px;
+	width : 170px;
+	height : 105px;
+	border-radius : 17px;
+	-moz-border-radius : 17px;
+	-webkit-border-radius : 17px;
+}
+.st2
+{
+	border-style : Solid;
+	border-color : #3759C1;
+	border-color : rgba(55, 89, 193, 1);
+	border-width : 3px;
+	position : absolute ;
+	left : 314px;
+	top : 384px;
+	width : 3px;
+	height : 1083px;
+}
+.st3
+{
+	border-style : Solid;
+	border-color : #FF8BAC;
+	border-color : rgba(255, 139, 172, 1);
+	border-width : 7px;
+	position : absolute ;
+	left : -3px;
+	top : 121px;
+	width : 1442px;
+	height : 221px;
+}
+.st4
+{
+	background : #92E3DF;
+	background : rgba(146, 227, 223, 1);
+	position : absolute ;
+	left : 374px;
+	top : 1186px;
+	width : 133px;
+	height : 77px;
+}
+.st5
+{
+	background : #92E3DF;
+	background : rgba(146, 227, 223, 1);
+	position : absolute ;
+	left : 858px;
+	top : 1186px;
+	width : 166px;
+	height : 77px;
+	border-radius : 16px;
+	-moz-border-radius : 16px;
+	-webkit-border-radius : 16px;
+}
+.st6
+{
+	border-style : Solid;
+	border-color : #000000;
+	border-color : rgba(0, 0, 0, 1);
+	border-width : 1px;
+	position : absolute ;
+	left : 967px;
+	top : 265px;
+	width : 364px;
+	height : 58px;
+}
+.st7
+{
+	border-style : Solid;
+	border-color : #FF1DAC;
+	border-color : rgba(255, 29, 172, 1);
+	border-width : 5px;
+	position : absolute ;
+	left : -1px;
+	top : 46px;
+	width : 381px;
+	height : 74px;
+}
+.st8
+{
+	border-style : Solid;
+	border-color : #FF8BAC;
+	border-color : rgba(255, 139, 172, 1);
+	border-width : 7px;
+	position : absolute ;
+	left : 855px;
+	top : 1315px;
+	width : 473px;
+	height : 150px;
+}
+.st9
+{
+	border-style : Solid;
+	border-color : #FF8BAC;
+	border-color : rgba(255, 139, 172, 1);
+	border-width : 7px;
+	position : absolute ;
+	left : 365px;
+	top : 1138px;
+	width : 473px;
+	height : 150px;
+}
+.st10
+{
+	background : #92E3DF;
+	background : rgba(146, 227, 223, 1);
+	position : absolute ;
+	left : 860px;
+	top : 1363px;
+	width : 159px;
+	height : 78px;
+}
+.st11
+{
+	border-style : Solid;
+	border-color : #FF8BAC;
+	border-color : rgba(255, 139, 172, 1);
+	border-width : 7px;
+	position : absolute ;
+	left : -1px;
+	top : 0px;
+	width : 1444px;
+	height : 131px;
+}
+.st12
+{
+	border-style : Solid;
+	border-color : #FF8BAC;
+	border-color : rgba(255, 139, 172, 1);
+	border-width : 7px;
+	position : absolute ;
+	left : 365px;
+	top : 1315px;
+	width : 473px;
+	height : 150px;
+}
+.st13
+{
+	border-style : Solid;
+	border-color : #FF1DAC;
+	border-color : rgba(255, 29, 172, 1);
+	border-width : 5px;
+	position : absolute ;
+	left : 0px;
+	top : 3px;
+	width : 1435px;
+	height : 1665px;
+}
+.st14
+{
+	background : #92E3DF;
+	background : rgba(146, 227, 223, 1);
+	position : absolute ;
+	left : 369px;
+	top : 1362px;
+	width : 211px;
+	height : 78px;
+}
+.st15
+{
+	border-style : Solid;
+	border-color : #FF8BAC;
+	border-color : rgba(255, 139, 172, 1);
+	border-width : 7px;
+	position : absolute ;
+	left : 370px;
+	top : 661px;
+	width : 961px;
+	height : 454px;
+}
+.st16
+{
+	border-style : Solid;
+	border-color : #000000;
+	border-color : rgba(0, 0, 0, 1);
+	border-width : 0px;
+	position : absolute ;
+	left : 860px;
+	top : 1184px;
+	width : 171px;
+	height : 78px;
+	border-radius : 14px;
+	-moz-border-radius : 14px;
+	-webkit-border-radius : 14px;
+}
+.image
+{
+	background-image : url(image.png);
+	background-repeat : no-repeat;
+	position : absolute ;
+	left : 855px;
+	top : 1137px;
+	width : 474px;
+	height : 151px;
+}
+.NormalCharacterStyle1
+{
+	font-family : Myriad Pro;
+	font-size : 24px;
+	color : #000000;
+	color : rgb(0, 0, 0);
+}
+.NormalCharacterStyle3
+{
+	font-family : Myriad Pro;
+	font-size : 46px;
+	color : #000000;
+	color : rgb(0, 0, 0);
+}
+.NormalCharacterStyle5
+{
+	font-family : Myriad Pro;
+	font-size : 54px;
+	color : #000000;
+	color : rgb(0, 0, 0);
+}
+.NormalCharacterStyle4
+{
+	font-family : Myriad Pro;
+	font-size : 46px;
+	color : #000000;
+	color : rgb(0, 0, 0);
+}
+.NormalCharacterStyle2
+{
+	font-family : Myriad Pro;
+	font-size : 46px;
+	color : #FF0000;
+	color : rgb(255, 0, 0);
+}
+.NormalCharacterStyle
+{
+	font-family : Myriad Pro;
+	font-size : 36px;
+	color : #000000;
+	color : rgb(0, 0, 0);
+}
